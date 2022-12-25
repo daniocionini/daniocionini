@@ -26,6 +26,45 @@
           <code>Python</code>
           <br>
 
+<p dir="auto">
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+          </a>
+</p>
+<p dir="auto">
+          <strong>Data Scientist</strong>
+          <br>
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <strong>Giolitti Auto d'Epoca Srl</strong>
+          </a>
+          • Full-time 
+          <br>
+          Languages & Technologies: 
+          <code>SQL</code>
+          ,
+          <code>Python</code>
+          ,
+          <code>R</code>
+          <br>
+          
+<p dir="auto">
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+          </a>
+</p>
+<p dir="auto">
+          <strong>Data Analyst</strong>
+          <br>
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <strong>Giolitti Auto d'Epoca Srl</strong>
+          </a>
+          • Internship 
+          <br>
+          Languages & Technologies: 
+          <code>SQL</code>
+          ,
+          <code>Python</code>
+          <br>
 
 
 
