@@ -6,7 +6,7 @@
 ## My Portfolio
 [![My Skills](https://skillicons.dev/icons?i=github)](https://daniocionini.github.io)
 ## Software and Tools 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,r,latex,html,matlab,php,aws,fastapi,git,vscode)]() </br> 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,r,latex,html,matlab,php,css,aws,fastapi,git,vscode,atom)]() </br> 
 <img src="https://camo.githubusercontent.com/76ce88ff28bafd25d82d7faf18a6fe762079b79a34472a7c8067e2f1ca55e40f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f48364b75735a38707a787479796d626c6e452f67697068792e676966" width="120">
 ## Current Stats :fire:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daniocionini&theme=dark)](https://git.io/streak-stats)
