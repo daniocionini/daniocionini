@@ -1,5 +1,7 @@
-### Hello 👋!
-I am Danio
+# Hello 👋!
+**I am Danio, a Data Scientist with Cloud Computing experience** </br>
+</br>
+![](https://camo.githubusercontent.com/76ce88ff28bafd25d82d7faf18a6fe762079b79a34472a7c8067e2f1ca55e40f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f48364b75735a38707a787479796d626c6e452f67697068792e676966)
 ## A little more about me
 I am a Data Scientist living in Netherlands
 ## My Profiles
@@ -9,3 +11,5 @@ I am a Data Scientist living in Netherlands
 ## Software and Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,r,latex,html,matlab,php,aws,fastapi,git,vscode)]()
 ## Current Stats :fire:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daniocionini&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniocionini&layout=compact)](https://github.com/daniocionini/github-readme-stats)
