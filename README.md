@@ -7,7 +7,7 @@
 ## Work Experience
 <p dir="auto">
           <a href="https://www.filactech.com/team" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/filactechnologylogopiccolo.png">
           </a>
 </p>
 <p dir="auto">
@@ -28,7 +28,7 @@
 
 <p dir="auto">
           <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/abfa51eb520350fce0775d4d0a31cd3b-1024x1024.jpeg">
           </a>
 </p>
 <p dir="auto">
@@ -49,7 +49,7 @@
           
 <p dir="auto">
           <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/abfa51eb520350fce0775d4d0a31cd3b-1024x1024.jpeg">
           </a>
 </p>
 <p dir="auto">
