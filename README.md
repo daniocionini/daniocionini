@@ -5,7 +5,7 @@ I am a Data Scientist living in Netherlands
 ## My Profiles
 [![My Skills](https://skillicons.dev/icons?i=linkedin,stackoverflow,twitter)](https://skillicons.dev)
 ## My Portfolio
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://daniocionini.github.io)
 ## Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,r,latex,html,matlab,php,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,python,r,latex,html,matlab,php,aws,fastapi)]()
 ## Current Stats :fire:
