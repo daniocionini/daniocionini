@@ -20,7 +20,7 @@
 
 ## My Profiles
 <a href="https://www.linkedin.com/in/daniocionini">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="70">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="70" target="_blank">
 </a>
           
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan)
