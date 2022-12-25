@@ -4,6 +4,31 @@
 ![](https://github.com/daniocionini/daniocionini/blob/main/giphy.gif)
 
 
+## Work Experience
+<p dir="auto">
+          <a href="https://www.filactech.com/team" rel="nofollow">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/giphy.gif">
+          </a>
+</p>
+<p dir="auto">
+          <strong>Cloud Engineer</strong>
+          <br>
+          <a href="https://www.filactech.com/team" rel="nofollow">
+                    <strong>Filac Technology Srl</strong>
+          </a>
+          • Contract 
+          <br>
+          Languages & Technologies: 
+          <code>MySQL</code>
+          ,
+          <code>PostgreSQL</code>
+          ,
+          <code>Python</code>
+          <br>
+
+
+
+
 ## My Portfolio
 [![My Skills](https://skillicons.dev/icons?i=github)](https://daniocionini.github.io)
 
