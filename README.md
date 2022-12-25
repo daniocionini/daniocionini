@@ -7,7 +7,7 @@
 ## Work Experience
 <p dir="auto">
           <a href="https://www.filactech.com/team" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/filactechnologylogopiccolo.png">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/download.jfif">
           </a>
 </p>
 <p dir="auto">
