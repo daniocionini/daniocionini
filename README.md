@@ -24,6 +24,8 @@
           <code>PostgreSQL</code>
           ,
           <code>Python</code>
+          ,
+          <code>AWS</code>
           <br>
 
 <p dir="auto">
