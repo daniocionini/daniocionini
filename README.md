@@ -47,6 +47,10 @@
           <code>Python</code>
           ,
           <code>R</code>
+          ,
+          <code>HTML</code>
+          ,
+          <code>LaTeX</code>
           <br>
           
 <p dir="auto">
