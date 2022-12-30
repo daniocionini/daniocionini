@@ -1,6 +1,7 @@
 # Hello 👋!
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### I am Danio, a ***Data Scientist*** with ***Cloud Computing*** experience </br>
 
-### I am Danio, a ***Data Scientist*** with ***Cloud Computing*** experience </br> ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://github.com/daniocionini/daniocionini/blob/main/giphy.gif)
 
 
