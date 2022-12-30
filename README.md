@@ -1,6 +1,6 @@
 # Hello 👋!
 
-### I am Danio, a ***Data Scientist*** with ***Cloud Computing*** experience </br>
+### I am Danio, a ***Data Scientist*** with ***Cloud Computing*** experience </br> ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://github.com/daniocionini/daniocionini/blob/main/giphy.gif)
 
 
@@ -90,6 +90,7 @@
 
 ## My Profiles
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan)
+
 
 ## Current Stats :fire:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daniocionini&theme=dark)](daniocionini.github.io)
