@@ -4,6 +4,8 @@
 
 ![](https://github.com/daniocionini/daniocionini/blob/main/giphy.gif)
 
+<img src="https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=790b7611dda06891a8b68cef9e258fb35238b6c573b74e96&rid=giphy.gif&ct=g" width="150">
+<img src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b761127fc54a5a8d8b31d0adcc746edd50edb198a3b90&rid=giphy.gif&ct=g" width="150">
 
 ## Work Experience
 <p dir="auto">
