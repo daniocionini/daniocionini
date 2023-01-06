@@ -100,5 +100,5 @@
 ## Current Stats :fire:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=daniocionini&layout=compact&theme=dark&show_icons=true)](daniocionini.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniocionini&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/daniocionini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniocionini&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/daniocionini)
 
