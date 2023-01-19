@@ -95,10 +95,3 @@
 
 ## My Profiles
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan)
-
-
-## Current Stats :fire:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=daniocionini&layout=compact&theme=dark&show_icons=true)](daniocionini.github.io)
-
-
-
