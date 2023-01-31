@@ -95,3 +95,8 @@
 
 ## My Profiles
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniocionini&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniocionini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
