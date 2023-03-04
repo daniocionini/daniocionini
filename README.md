@@ -94,7 +94,7 @@
 
 
 ## My Profiles
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniocionini) [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16124834/d-cio) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/data_cioninidan) [![My Skills](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datadaniocionini)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniocionini&theme=dark&background=000000)](https://git.io/streak-stats)
