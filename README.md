@@ -25,8 +25,6 @@
           <br>
           Languages & Technologies: 
           <code>Python</code>
-          ,
-          <code>Imaging Cell Analysis</code>
           <br>
 
 
