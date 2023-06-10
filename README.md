@@ -11,22 +11,22 @@
 
 ## Work Experience
 <p dir="auto">
-          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/abfa51eb520350fce0775d4d0a31cd3b-1024x1024.jpeg">
+          <a href="https://digi.bio/" rel="nofollow">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/logo_digi_bio5.png">
           </a>
 </p>
 <p dir="auto">
-          <strong>Data Analyst</strong>
+          <strong>Data Scientist</strong>
           <br>
-          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <strong>Giolitti Auto d'Epoca Srl</strong>
+          <a href="https://digi.bio/" rel="nofollow">
+                    <strong>Digi.Bio</strong>
           </a>
           • Internship 
           <br>
           Languages & Technologies: 
-          <code>SQL</code>
-          ,
           <code>Python</code>
+          ,
+          <code>Imaging Cell Analysis</code>
           <br>
 
 
