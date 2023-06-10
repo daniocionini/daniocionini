@@ -11,6 +11,26 @@
 
 ## Work Experience
 <p dir="auto">
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/abfa51eb520350fce0775d4d0a31cd3b-1024x1024.jpeg">
+          </a>
+</p>
+<p dir="auto">
+          <strong>Data Analyst</strong>
+          <br>
+          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
+                    <strong>Giolitti Auto d'Epoca Srl</strong>
+          </a>
+          • Internship 
+          <br>
+          Languages & Technologies: 
+          <code>SQL</code>
+          ,
+          <code>Python</code>
+          <br>
+
+
+<p dir="auto">
           <a href="https://www.filactech.com/team" rel="nofollow">
                     <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/download.jfif">
           </a>
@@ -58,24 +78,6 @@
           <code>LaTeX</code>
           <br>
           
-<p dir="auto">
-          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/abfa51eb520350fce0775d4d0a31cd3b-1024x1024.jpeg">
-          </a>
-</p>
-<p dir="auto">
-          <strong>Data Analyst</strong>
-          <br>
-          <a href="https://www.giolittiricambiautodepoca.com" rel="nofollow">
-                    <strong>Giolitti Auto d'Epoca Srl</strong>
-          </a>
-          • Internship 
-          <br>
-          Languages & Technologies: 
-          <code>SQL</code>
-          ,
-          <code>Python</code>
-          <br>
 
 
 
