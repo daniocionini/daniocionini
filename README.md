@@ -21,7 +21,7 @@
           <a href="https://digi.bio/" rel="nofollow">
                     <strong>Digi.Bio</strong>
           </a>
-          • Internship 
+          • Contract
           <br>
           Languages & Technologies: 
           <code>Python</code>
