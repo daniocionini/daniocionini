@@ -25,6 +25,8 @@
           <br>
           Languages & Technologies: 
           <code>Python</code>
+          <code>Machine Vision</code>
+          <code>Cancer Research</code>
           <br>
 
 
