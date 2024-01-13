@@ -45,11 +45,8 @@
           <br>
           Languages & Technologies: 
           <code>MySQL</code>
-          ,
           <code>PostgreSQL</code>
-          ,
           <code>Python</code>
-          ,
           <code>AWS</code>
           <br>
 
@@ -68,13 +65,9 @@
           <br>
           Languages & Technologies: 
           <code>SQL</code>
-          ,
           <code>Python</code>
-          ,
           <code>R</code>
-          ,
           <code>HTML</code>
-          ,
           <code>LaTeX</code>
           <br>
           
