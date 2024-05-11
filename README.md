@@ -12,7 +12,7 @@
 ## Work Experience
 <p dir="auto">
           <a href="https://digi.bio/" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/logo_digi_bio5.png">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/digibio_danio_cionini.jpg">
           </a>
 </p>
 <p dir="auto">
@@ -25,6 +25,8 @@
           <br>
           Languages & Technologies: 
           <code>Python</code>
+          <code>Data Analysis</code>
+          <code>CI/CD</code>
           <code>Machine Vision</code>
           <code>Cancer Research</code>
           <br>
@@ -32,7 +34,7 @@
 
 <p dir="auto">
           <a href="https://www.zotecsolar.com" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://www.zotecsolar.com/wp-content/uploads/2024/03/zotec_solar_light_website.png">
+                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/zotec_solar_danio_cionini.jpg">
           </a>
 </p>
 <p dir="auto">
@@ -66,7 +68,7 @@
           Languages & Technologies: 
           <code>SQL</code>
           <code>Python</code>
-          <code>R</code>
+          <code>Reporting</code>
           <code>HTML</code>
           <code>LaTeX</code>
           <br>
