@@ -31,14 +31,14 @@
 
 
 <p dir="auto">
-          <a href="https://www.filactech.com/team" rel="nofollow">
+          <a href="https://www.zotecsolar.com" rel="nofollow">
                     <img align="left" height="70px" width="70px" src="https://www.zotecsolar.com/wp-content/uploads/2024/03/zotec_solar_light_website.png">
           </a>
 </p>
 <p dir="auto">
           <strong>Data Engineer</strong>
           <br>
-          <a href="https://www.filactech.com/team" rel="nofollow">
+          <a href="https://www.zotecsolar.com" rel="nofollow">
                     <strong>Zotec Solar</strong>
           </a>
           • Contract 
