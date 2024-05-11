@@ -32,20 +32,20 @@
 
 <p dir="auto">
           <a href="https://www.filactech.com/team" rel="nofollow">
-                    <img align="left" height="70px" width="70px" src="https://github.com/daniocionini/daniocionini/blob/main/download.jfif">
+                    <img align="left" height="70px" width="70px" src="https://www.zotecsolar.com/wp-content/uploads/2024/03/zotec_solar_light_website.png">
           </a>
 </p>
 <p dir="auto">
-          <strong>Cloud Engineer</strong>
+          <strong>Data Engineer</strong>
           <br>
           <a href="https://www.filactech.com/team" rel="nofollow">
-                    <strong>Filac Technology Srl</strong>
+                    <strong>Zotec Solar</strong>
           </a>
           • Contract 
           <br>
           Languages & Technologies: 
-          <code>MySQL</code>
-          <code>PostgreSQL</code>
+          <code>SQL</code>
+          <code>ETL Pipelines</code>
           <code>Python</code>
           <code>AWS</code>
           <br>
