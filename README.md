@@ -1,6 +1,6 @@
 # Hello 👋!
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-### I am Danio, a ***Data Engineer*** with a rich background in ***Data Science*** and ***Cloud Engineering*** </br>
+### I am Danio, a ***Data Scientist*** with a rich background in ***Data Engineering*** and ***Cloud Engineering*** </br>
 
 ![](https://github.com/daniocionini/daniocionini/blob/main/giphy.gif)
 
