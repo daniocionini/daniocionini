@@ -38,7 +38,7 @@
           </a>
 </p>
 <p dir="auto">
-          <strong>Data Engineer</strong>
+          <strong>Head of Innovation Advisor</strong>
           <br>
           <a href="https://www.zotecsolar.com" rel="nofollow">
                     <strong>Zotec Solar</strong>
