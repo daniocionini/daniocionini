@@ -21,7 +21,7 @@
           <a href="https://digi.bio/" rel="nofollow">
                     <strong>Digi.Bio</strong>
           </a>
-          • Contract
+          • Full-time
           <br>
           Languages & Technologies: 
           <code>Python</code>
